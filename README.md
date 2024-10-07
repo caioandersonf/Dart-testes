@@ -22,7 +22,7 @@ Certifique-se de ter o Dart SDK instalado. Você pode instalá-lo seguindo as in
 
 Clone este repositório.
 
-git clone https://github.com/seu-usuario/dart-language-overview.git
+git clone https://github.com/caioandersonf/Dart-testes.git
 
 Navegue até o diretório do projeto.
 
